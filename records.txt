@@ -94,4 +94,4 @@ Xanthus,Suarez, male,35, (249)641-7263,XSuarez@Suarez.com
 Asher,Riley, male,51, (298)980-9296,ARiley@Riley.com
 Walker,Lindsey, male,13, (578)654-3531,WLindsey@Lindsey.com
 Hayfa,Sanchez, male,80, (911)391-4830,HSanchez@Sanchez.net
-Kimberly,Cook, female,, (498)185-6137,KCook@Cook.com
+Kimberly,Cook, female,24, (498)185-6137,KCook@Cook.com
